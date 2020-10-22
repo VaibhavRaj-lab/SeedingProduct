@@ -2,7 +2,7 @@ var Product = require("./product");
 var mongoose = require(`mongoose`);
 mongoose.Promise = global.Promise;
 mongoose
-  .connect("localhost:27017/shopping", {
+  .connect("url", {
     useUnifiedTopology: true,
     useNewUrlParser: true,
   })
