@@ -1,0 +1,22 @@
+{
+  "name": "vaibhav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product-seeder.js",
+  "scripts": {
+    "start": "node ./product-seeder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amolsr/vaibhav.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amolsr/vaibhav/issues"
+  },
+  "homepage": "https://github.com/amolsr/vaibhav#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
+}
